@@ -1,0 +1,25 @@
+{
+  "name": "rail-fence-cipher",
+  "version": "1.0.0",
+  "description": "A rail fence cipher.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zacharyjbaldwin/rail-fence-cipher.git"
+  },
+  "keywords": [
+    "rail",
+    "fence",
+    "railfence",
+    "cipher"
+  ],
+  "author": "Zachary Baldwin <zacharyjbaldwin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zacharyjbaldwin/rail-fence-cipher/issues"
+  },
+  "homepage": "https://github.com/zacharyjbaldwin/rail-fence-cipher#readme"
+}
